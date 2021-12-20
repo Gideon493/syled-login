@@ -1,0 +1,43 @@
+body{
+	background-color:rgba(255, 99, 71, 0.5);
+	text-align: center;
+	color: white;
+	background-image: url('gettyimages-182880589-1493334765.jpg');
+	background-size: 1350px 600px;
+}
+.button2{
+	background-color:red;
+	font-size:20px;
+	border-radius:8px;
+	padding: 5px 30px;
+
+}
+.button2:hover{
+	background-color: gold;
+	font-family: sans-serif;
+}
+div{
+	text-align: center;
+	background-color: rgb(59, 56, 56, 0.8);
+	width: 400px;
+	height: 500px;
+	position: absolute;
+	left: 500px;
+	box-shadow: 5px 10px 10px black;
+	border-radius: 10px;
+}
+a{
+	text-decoration: none;
+	color: white;
+	background-color: dodgerblue;
+	padding: 13px 22px;
+}
+a:hover{
+	background-color: yellow;
+	color: darkgreen;
+}
+input{
+	font-family: times new roman;
+	font-size: 15px;
+	text-align:left;
+}
